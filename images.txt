@@ -11,3 +11,5 @@ nacos/nacos-server:v2.4.1
 rabbitmq
 redis/redis-stack-server:latest
 redislabs/redisearch
+jenkinsci/blueocean
+jenkins/jenkins
