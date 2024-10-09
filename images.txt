@@ -12,4 +12,4 @@ rabbitmq
 redis/redis-stack-server:latest
 redislabs/redisearch
 jenkinsci/blueocean
-jenkins/jenkins
+minio/minio
