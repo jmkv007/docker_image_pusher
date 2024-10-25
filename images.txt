@@ -13,3 +13,4 @@ redis/redis-stack-server:latest
 redislabs/redisearch
 jenkinsci/blueocean
 minio/minio
+anjone/kicbase
