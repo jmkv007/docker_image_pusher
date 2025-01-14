@@ -14,3 +14,4 @@ redislabs/redisearch
 jenkinsci/blueocean
 minio/minio
 anjone/kicbase
+bladex/alpine-java:openjdk17_cn_slim
