@@ -15,4 +15,4 @@ jenkinsci/blueocean
 minio/minio
 anjone/kicbase
 bladex/alpine-java:openjdk17_cn_slim
-backplane/open-webui
+backplane/open-webui:0
