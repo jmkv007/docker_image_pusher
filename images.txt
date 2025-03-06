@@ -16,3 +16,4 @@ minio/minio
 anjone/kicbase
 bladex/alpine-java:openjdk17_cn_slim
 ghcr.io/open-webui/open-webui:main
+mongo:4.4.24
