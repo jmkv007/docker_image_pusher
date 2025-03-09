@@ -1,20 +1,12 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 redis
 mysql
 jenkins/jenkins
 nacos/nacos-server:v2.4.1
 rabbitmq
 redis/redis-stack-server:latest
-redislabs/redisearch
-jenkinsci/blueocean
 minio/minio
-anjone/kicbase
 bladex/alpine-java:openjdk17_cn_slim
 ghcr.io/open-webui/open-webui:main
 mongo:4.4.24
-surveyking/surveyking
+tduckcloud/tduck-platform
