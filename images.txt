@@ -12,5 +12,5 @@ mongo:4.4.24
 tduckcloud/tduck-platform
 mongo:latest
 python:3.9.21-bookworm
-elasticsearch
+elasticsearch:8.17.4
 
