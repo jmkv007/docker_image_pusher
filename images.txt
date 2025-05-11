@@ -7,10 +7,5 @@ rabbitmq
 redis/redis-stack-server:latest
 minio/minio
 bladex/alpine-java:openjdk17_cn_slim
-ghcr.io/open-webui/open-webui:main
-mongo:4.4.24
-tduckcloud/tduck-platform
-mongo:latest
-python:3.9.21-bookworm
 elasticsearch:8.17.4
 
