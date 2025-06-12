@@ -8,4 +8,5 @@ redis/redis-stack-server:latest
 minio/minio
 bladex/alpine-java:openjdk17_cn_slim
 elasticsearch:8.17.4
+apache/rocketmq:latest
 
