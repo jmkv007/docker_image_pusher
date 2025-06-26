@@ -5,7 +5,7 @@ jenkins/jenkins
 nacos/nacos-server:v2.4.1
 rabbitmq
 redis/redis-stack-server:latest
-minio/minio
+minio/minio:latest
 bladex/alpine-java:openjdk17_cn_slim
 elasticsearch:8.17.4
 apache/rocketmq:latest
