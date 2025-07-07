@@ -9,4 +9,5 @@ minio/minio:latest
 bladex/alpine-java:openjdk17_cn_slim
 elasticsearch:8.17.4
 apache/rocketmq:latest
+doccano/doccano
 
