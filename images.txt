@@ -11,4 +11,5 @@ elasticsearch:8.17.4
 apache/rocketmq:latest
 eclipse-temurin:8u452-b09-jre-noble
 redis:alpine3.21
+python:3.9-slim
 
